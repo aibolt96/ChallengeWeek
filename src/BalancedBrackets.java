@@ -48,5 +48,5 @@ public class BalancedBrackets {
 
 //runtime O(n)
 // the runtime for the solutions is also O(n)
-//all the runtimes are the same I believe but the solutions look a little more readable so i could improve there.
+//all the runtimes are the same I believe but the solutions look a little more readable, so I could improve there.
 //the runtime would remain the same O(n) even if a queue was implemented as well
